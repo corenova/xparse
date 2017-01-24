@@ -14,10 +14,9 @@
   "homepage": "https://github.com/corenova/xparse",
   "license": "Apache-2.0",
   "repository": "corenova/xparse",
-  "main": "index.js",
+  "main": "lib/xparse.js",
   "dependencies": {
-    "comparse": "^0.9.3",
-    "debug": "^2.6.0"
+    "comparse": "^0.9.3"
   },
   "devDependencies": {
     "coffee-script": ">=1.7.0",
